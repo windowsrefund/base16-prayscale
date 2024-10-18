@@ -1,0 +1,21 @@
+system: "base16"
+name: "prayscale-green"
+author: "windowsrefund (https://github.com/windowsrefund/)"
+variant: "dark"
+palette:
+  base00: "1a1a1a" #1a1a1a
+  base01: "1a1a1a" #1a1a1a
+  base02: "464646" #464646
+  base03: "525252" #525252
+  base04: "ababab" #ababab
+  base05: "b9b9b9" #b9b9b9
+  base06: "e3e3e3" #e3e3e3
+  base07: "f7f7f7" #f7f7f7
+  base08: "737246" #737246
+  base09: "999999" #999999
+  base0A: "737246" #737246
+  base0B: "d8d8d8" #d8d8d8
+  base0C: "868686" #868686
+  base0D: "737246" #737246
+  base0E: "747474" #747474
+  base0F: "5e5e5e" #5e5e5e
